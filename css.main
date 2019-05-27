@@ -1,4 +1,4 @@
-# hmwhat--@@ -60,7 +60,6 @@
+@@ -60,7 +60,6 @@
 
 <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
